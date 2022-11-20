@@ -21,7 +21,6 @@ module View
         # A key was pressed
         handle_key_event(event)
         puts event.key
-        puts "Sergio no deja de ser perra"
       end
 
       show
